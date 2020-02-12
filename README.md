@@ -34,7 +34,7 @@
     
     $ service apache2 restart
     
-![](https://github.com/Charles-Hsu/apache2-ssl-config/edit/master/apache2-https-10443.png)
+![](https://github.com/Charles-Hsu/apache2-ssl-config/blob/master/apache2-https-10443.png)
     
     
     
